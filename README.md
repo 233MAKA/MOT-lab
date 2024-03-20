@@ -1,3 +1,4 @@
+复制的别人的仓库（方便做实验），原仓库地址：https://github.com/ifzhang/ByteTrack
 # ByteTrack
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bytetrack-multi-object-tracking-by-1/multi-object-tracking-on-mot17)](https://paperswithcode.com/sota/multi-object-tracking-on-mot17?p=bytetrack-multi-object-tracking-by-1)
